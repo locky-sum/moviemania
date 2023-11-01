@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moviemania/static/css/main.e173318b.css",
+    "main.js": "/moviemania/static/js/main.1f67ef59.js",
+    "index.html": "/moviemania/index.html",
+    "static/media/search.svg": "/moviemania/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.e173318b.css.map": "/moviemania/static/css/main.e173318b.css.map",
+    "main.1f67ef59.js.map": "/moviemania/static/js/main.1f67ef59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e173318b.css",
+    "static/js/main.1f67ef59.js"
+  ]
+}
